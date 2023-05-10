@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/melvincarvalho/dev.to/issues"
   },
-  "homepage": "https://github.com/melvincarvalho/dev.to#readme"
+  "homepage": "https://github.com/melvincarvalho/dev.to#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
